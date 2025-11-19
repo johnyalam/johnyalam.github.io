@@ -1,0 +1,114 @@
+[
+    {
+      "name": "Hublet Device Manager",
+      "app_link": "https://play.google.com/store/apps/details?id=fi.hublet.hubletdevicemanager",
+      "details": "Developed secure networking solutions to ensure controlled access for devices at Hublet Oy. Managed application usage by implementing restrictions for unauthorized applications. Integrated Enterprise Mobility Management (EMM) systems for comprehensive device monitoring. Supported user management with tailored profiles for both kids and adults, enhancing user experience.",
+      "tech": "Android Native, Google Go (Backend)",
+      "icon": "1.png"
+    },
+    {
+      "name": "Dr Chashi",
+      "app_link": "https://play.google.com/store/apps/details?id=com.medinatech.drchashi",
+      "details": "Farmer crops disease detection with Machine Learning technology (TensorFlow). Provides disease medicine suggestions and guidelines. Includes nearest medicine shop locator and voice command support in English and Bangla.",
+      "tech": "Android Native, Python (Django + PostgreSQL + TensorFlow)",
+      "icon": "2.png"
+    },
+    {
+      "name": "Al-Quran আল কোরআন",
+      "app_link": "https://play.google.com/store/apps/details?id=com.technobd.alquran",
+      "details": "Al-Quran reading and listening in 3 combinations (Arabic, Bangla, Arabic-Bangla). Quran reading with bookmarks, Hadith, Tasbih, Qibla direction, and district-based Azan times. Supports audio download and offline listening in both Bangla and Arabic.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "3.png"
+    },
+    {
+      "name": "MediArchive",
+      "app_link": "https://play.google.com/store/apps/details?id=com.technobd.medi_archive",
+      "details": "Medical history archive app that stores medical documents and reminds users to take medicine doses. Includes advanced file scanning features for document preservation.",
+      "tech": "React Native (Android + iOS Flight Mode), PHP (CodeIgniter)",
+      "icon": "4.png"
+    },
+    {
+      "name": "MatchPics",
+      "app_link": "https://play.google.com/store/apps/details?id=com.matchpics.matchpics",
+      "details": "A social networking app with live messaging for matched users. Features include favorite, block, report, and advertisement management (Admob & Facebook). In-app purchases available for removing ads on Android and iOS.",
+      "tech": "React Native (Android Alpha + iOS Flight Mode), PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "Fnf Tracking",
+      "app_link": "https://play.google.com/store/apps/details?id=com.fnftracking.fnftracking",
+      "details": "Friends and family tracking app with Google Maps integration. Features live user tracking via activation code and detailed location history.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "Top BDNews",
+      "app_link": "https://play.google.com/store/apps/details?id=com.technobd.topbdnews",
+      "details": "Compact news app for busy readers. Includes breaking news push notifications, bookmarking, and search functionality.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "5.png"
+    },
+    {
+      "name": "Newsello",
+      "app_link": "https://play.google.com/store/apps/details?id=com.newsello.newsello",
+      "details": "News application providing updates from 36 countries. Includes breaking news notifications, bookmarking, and searching.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "6.png"
+    },
+    {
+      "name": "Golpokobita",
+      "app_link": "https://play.google.com/store/apps/details?id=com.golpokobita.golpokobita",
+      "details": "Bangla literature social platform where users can write, read, and publish articles.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "7.png"
+    },
+    {
+      "name": "CricBD",
+      "app_link": "https://play.google.com/store/apps/details?id=com.technobd.cricbd",
+      "details": "Cricket score update app similar to CricInfo. Provides both domestic and international match updates.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "Blood Finder",
+      "app_link": "https://play.google.com/store/apps/details?id=com.technobd.bloodfinder",
+      "details": "Emergency blood donation and requesting app. Includes location-based donor search and emergency blood request posting.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "Hip-Hop-Public Health",
+      "app_link": "",
+      "details": "Public health awareness app built for a Japanese client. Features include Google Maps integration and user guideline videos and audio.",
+      "tech": "Android Native, PHP",
+      "icon": "logo.png"
+    },
+    {
+      "name": "MJMArt",
+      "app_link": "https://play.google.com/store/apps/details?id=com.technobd.mjmart",
+      "details": "Online shopping application. Users can add items to cart, place orders, and view order history.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "ICanPayRefund",
+      "app_link": "",
+      "details": "Internal-use payment tracking application used within a company for managing financial transactions.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "Kaljoyee",
+      "app_link": "https://play.google.com/store/apps/details?id=com.golpokobita.kaljoyee",
+      "details": "Online book reading app. Users can purchase books using Technobd’s payment gateway or read a limited number of free books.",
+      "tech": "Android Native, PHP (CodeIgniter)",
+      "icon": "logo.png"
+    },
+    {
+      "name": "DMCB Directory",
+      "app_link": "https://play.google.com/store/apps/details?id=com.dmcbl_manager.directory",
+      "details": "DMCB branch manager directory with contact information, search, calling, and SMS functionality.",
+      "tech": "Android Native",
+      "icon": "8.png"
+    }
+  ]
